@@ -1,0 +1,11 @@
+Nama : W. Sulistyoningsih
+NIM : 1801010050
+Prodi : Sistem Informasi
+
+Soal :
+1. Mengapa Pemrograman Visual sangat penting untuk dipelajari?
+2. Buatlah Program Kalkulator Sederhana dengan menggunakan Electron!
+3. Buatlah Program Convert Suhu Sederhanan Dengan menggunakan Electron !
+
+Jawab :
+Karena dengan memperlajari Pemrograman visual seseorang dilatih untuk teliti, karena menuliskan koding program harus benar-benar telitisalah sedikit akan langsung eror semua. Dapat melatik seseorang dalam mengatasi masalah, karena munculnya eror pada program otomatis seorang programmer harus bisa memecahkan masalahnya. Belajar berfikir secara logis, karena dalam Bahasa pemrograman seorang programmer dituntut untuk berfikir secara logika. Manfaat lain belajar pemrograman visual adalah dapat mengembankan cara berfikir sistematis, karena dalam mebuat sebuah program, harus menuliskan kode-kode secara sistematis. Kode-kode yang disusun tidak boleh terbolak balik termasuk dengan penulisannya. Manfaat dari mempelajari pemrograman visual sangat penting bagi orang-orang yang terjun di dunia pemrograman untuk membantu dalam meyelesaikan proyek-proyek besar juga untuk mendapatkan gaji yang lebih besar.
