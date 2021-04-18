@@ -7,7 +7,7 @@ const BrowserWindow = electron.BrowserWindow;
 const path = require('path');
 const url = require('url');
 
-let winone ;
+let winone;
 
 function createWindow () {
     winone = new BrowserWindow({
@@ -17,30 +17,17 @@ function createWindow () {
             enableRemoteModule: true
         }
     });
-    /*
-    winTwo = new BrowserWindow();
-    */
+    
     winone.loadURL(url.format({
         pathname: path.join(__dirname, 'index.html'),
         protocol: 'file',
         slashes: true
     }));
-    /*
-    winTwo.loadURL(url.format({
-        pathname: path.join(__dirname, 'two.html'),
-        protocol: 'file',
-        slashes: true
-    }));
-    */
     
     winone.on('closed', () => {
         win = null;
     })
-    /*
-    winTwo.on('closed', () => {
-        win = null;
-    })
-    */
+    
 }
 
 app.on('ready', createWindow);
